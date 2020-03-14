@@ -15,5 +15,3 @@ Cargo.lock
 #already existing elements are commented out
 
 /target
-#**/*.rs.bk
-#Cargo.lock
